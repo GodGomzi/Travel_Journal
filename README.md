@@ -5,8 +5,9 @@ Steps to Run on terminal:
 1.Go to src directory:
 cd src
 
-3.Downloa the dependencies:
+3.Download the dependencies:
 npm install
 
 4.Start the application:
 npx vite
+
